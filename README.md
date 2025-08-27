@@ -36,14 +36,12 @@ Clone this repo and install the required dependencies:
 git clone https://github.com/Harsh-katiyar/ScriptHound.git
 cd ScriptHound
 pip install -r requirements.txt
+```
 
 ▶️ Usage
-
 Run ScriptHound with:
-
 python3 ScriptHound.py
 
 
-Example search:
-
+📂Example search:
 Enter the file name to search: ftp
